@@ -1,0 +1,24 @@
+{
+  "name": "lab-09",
+  "version": "1.0.0",
+  "description": "lab9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401classCodeFellows/lab-09.git"
+  },
+  "author": "Nicholas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401classCodeFellows/lab-09/issues"
+  },
+  "homepage": "https://github.com/401classCodeFellows/lab-09#readme",
+  "dependencies": {
+    "env": "0.0.2",
+    "express": "^4.16.4",
+    "superagent": "^4.0.0-beta.5"
+  }
+}
